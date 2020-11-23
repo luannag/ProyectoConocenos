@@ -92,6 +92,9 @@ margin-bottom: 40px;
 	font-size: 15px;
 }
 
+#Pie a{
+	color: white;
+}
 
 .panel{
 display: none;
