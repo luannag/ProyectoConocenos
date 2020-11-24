@@ -15,7 +15,6 @@ body{
 }
 
 .cabecera img{
-width: 20%;
 margin: 10px 0 10px 0; 
 float: center;
 }
@@ -94,20 +93,4 @@ margin-bottom: 40px;
 
 #Pie a{
 	color: white;
-}
-
-.panel{
-display: none;
-}
-
-.flip {
-    text-align: center;
-    font-size: 15px;
-	font-weight:bold;
-	font-family: arial;
-    color:white;
-    background-color: #808080;
-    width: 100px;
-    border-radius:5px;
-	margin-left: 40%;
 }
